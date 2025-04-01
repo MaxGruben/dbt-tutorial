@@ -1,0 +1,13 @@
+
+target/
+dbt_packages/
+logs/
+
+# Python-related
+__pycache__/
+*.pyc
+
+# Local secrets or config
+.env
+*.json
+profiles.yml
